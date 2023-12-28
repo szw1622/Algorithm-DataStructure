@@ -1,0 +1,15 @@
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\bin\Debug\net6.0\Rainbow.exe
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\bin\Debug\net6.0\Rainbow.deps.json
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\bin\Debug\net6.0\Rainbow.runtimeconfig.json
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\bin\Debug\net6.0\Rainbow.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\bin\Debug\net6.0\ref\Rainbow.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\bin\Debug\net6.0\Rainbow.pdb
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\obj\Debug\net6.0\Rainbow.csproj.AssemblyReference.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\obj\Debug\net6.0\Rainbow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\obj\Debug\net6.0\Rainbow.AssemblyInfoInputs.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\obj\Debug\net6.0\Rainbow.AssemblyInfo.cs
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\obj\Debug\net6.0\Rainbow.csproj.CoreCompileInputs.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\obj\Debug\net6.0\Rainbow.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\obj\Debug\net6.0\ref\Rainbow.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\obj\Debug\net6.0\Rainbow.pdb
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\Rainbow\obj\Debug\net6.0\Rainbow.genruntimeconfig.cache

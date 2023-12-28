@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Spiderman's Workout/1.0.0": {
+        "runtime": {
+          "Spiderman's Workout.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spiderman's Workout/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

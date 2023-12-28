@@ -1,0 +1,15 @@
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\bin\Debug\net6.0\RumorMill.exe
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\bin\Debug\net6.0\RumorMill.deps.json
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\bin\Debug\net6.0\RumorMill.runtimeconfig.json
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\bin\Debug\net6.0\RumorMill.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\bin\Debug\net6.0\ref\RumorMill.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\bin\Debug\net6.0\RumorMill.pdb
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\obj\Debug\net6.0\RumorMill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\obj\Debug\net6.0\RumorMill.AssemblyInfoInputs.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\obj\Debug\net6.0\RumorMill.AssemblyInfo.cs
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\obj\Debug\net6.0\RumorMill.csproj.CoreCompileInputs.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\obj\Debug\net6.0\RumorMill.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\obj\Debug\net6.0\ref\RumorMill.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\obj\Debug\net6.0\RumorMill.pdb
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\obj\Debug\net6.0\RumorMill.genruntimeconfig.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\RumorMill\obj\Debug\net6.0\RumorMill.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\bin\Debug\net6.0\BankQueue.exe
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\bin\Debug\net6.0\BankQueue.deps.json
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\bin\Debug\net6.0\BankQueue.runtimeconfig.json
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\bin\Debug\net6.0\BankQueue.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\bin\Debug\net6.0\ref\BankQueue.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\bin\Debug\net6.0\BankQueue.pdb
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\obj\Debug\net6.0\BankQueue.csproj.AssemblyReference.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\obj\Debug\net6.0\BankQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\obj\Debug\net6.0\BankQueue.AssemblyInfoInputs.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\obj\Debug\net6.0\BankQueue.AssemblyInfo.cs
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\obj\Debug\net6.0\BankQueue.csproj.CoreCompileInputs.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\obj\Debug\net6.0\BankQueue.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\obj\Debug\net6.0\ref\BankQueue.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\obj\Debug\net6.0\BankQueue.pdb
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\BankQueue\obj\Debug\net6.0\BankQueue.genruntimeconfig.cache

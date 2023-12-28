@@ -1,0 +1,15 @@
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\bin\Debug\net6.0\ArtGallery.exe
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\bin\Debug\net6.0\ArtGallery.deps.json
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\bin\Debug\net6.0\ArtGallery.runtimeconfig.json
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\bin\Debug\net6.0\ArtGallery.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\bin\Debug\net6.0\ref\ArtGallery.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\bin\Debug\net6.0\ArtGallery.pdb
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\obj\Debug\net6.0\ArtGallery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\obj\Debug\net6.0\ArtGallery.AssemblyInfoInputs.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\obj\Debug\net6.0\ArtGallery.AssemblyInfo.cs
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\obj\Debug\net6.0\ArtGallery.csproj.CoreCompileInputs.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\obj\Debug\net6.0\ArtGallery.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\obj\Debug\net6.0\ref\ArtGallery.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\obj\Debug\net6.0\ArtGallery.pdb
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\obj\Debug\net6.0\ArtGallery.genruntimeconfig.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\ArtGallery\obj\Debug\net6.0\ArtGallery.csproj.AssemblyReference.cache

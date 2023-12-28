@@ -1,0 +1,15 @@
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\bin\Debug\net6.0\AutoSink.exe
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\bin\Debug\net6.0\AutoSink.deps.json
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\bin\Debug\net6.0\AutoSink.runtimeconfig.json
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\bin\Debug\net6.0\AutoSink.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\bin\Debug\net6.0\ref\AutoSink.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\bin\Debug\net6.0\AutoSink.pdb
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\obj\Debug\net6.0\AutoSink.csproj.AssemblyReference.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\obj\Debug\net6.0\AutoSink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\obj\Debug\net6.0\AutoSink.AssemblyInfoInputs.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\obj\Debug\net6.0\AutoSink.AssemblyInfo.cs
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\obj\Debug\net6.0\AutoSink.csproj.CoreCompileInputs.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\obj\Debug\net6.0\AutoSink.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\obj\Debug\net6.0\ref\AutoSink.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\obj\Debug\net6.0\AutoSink.pdb
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\AutoSink\obj\Debug\net6.0\AutoSink.genruntimeconfig.cache

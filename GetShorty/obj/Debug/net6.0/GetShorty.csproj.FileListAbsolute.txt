@@ -1,0 +1,15 @@
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\bin\Debug\net6.0\GetShorty.exe
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\bin\Debug\net6.0\GetShorty.deps.json
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\bin\Debug\net6.0\GetShorty.runtimeconfig.json
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\bin\Debug\net6.0\GetShorty.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\bin\Debug\net6.0\ref\GetShorty.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\bin\Debug\net6.0\GetShorty.pdb
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\obj\Debug\net6.0\GetShorty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\obj\Debug\net6.0\GetShorty.AssemblyInfoInputs.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\obj\Debug\net6.0\GetShorty.AssemblyInfo.cs
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\obj\Debug\net6.0\GetShorty.csproj.CoreCompileInputs.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\obj\Debug\net6.0\GetShorty.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\obj\Debug\net6.0\ref\GetShorty.dll
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\obj\Debug\net6.0\GetShorty.pdb
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\obj\Debug\net6.0\GetShorty.genruntimeconfig.cache
+C:\Users\songz\source\repos\CS4150\Mr. Anaga\GetShorty\obj\Debug\net6.0\GetShorty.csproj.AssemblyReference.cache
